@@ -1,0 +1,33 @@
+body{
+    background-color:white
+}
+
+.fa{
+    color: rgb(104, 104, 116);
+}
+
+.box-part{
+    background-color: hotpink;
+    padding: 40px 5px;
+    margin: 30px 0px;
+}
+
+span{
+    font-size: medium;
+}
+
+a{
+    border-bottom: 1px solid blue;
+}
+.box{
+    padding: 60px 0px;
+}
+
+h1{
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
